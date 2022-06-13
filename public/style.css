@@ -1,0 +1,13 @@
+header
+{
+    width: 100%;
+    position: fixed;
+    color: white;
+    background-color: red;
+}
+
+#lokkeroom
+{
+    font-size: larger;
+    letter-spacing: 2px;
+}
