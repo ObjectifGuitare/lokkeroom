@@ -32,8 +32,8 @@ async function boocle()
 const client = new Client({
     host: '127.0.0.1',
     user: 'lokkeroom_admin',
-    database: 'lokkeroom_db',
-    password: 'bonjour',
+    database: 'lokkeroom',
+    password: 'becode',
     port: 5432,
 })
 
